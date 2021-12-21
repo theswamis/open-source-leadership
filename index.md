@@ -21,4 +21,4 @@ Each topic has the same sections.
 
 # Table of Contents
 1. [Purpose](purpose.md)
-2. [Purpose](purpose.md)
+2. [Communicate](communicate.md)

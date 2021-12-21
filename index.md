@@ -9,3 +9,6 @@ Each topic has the same sections.
 3. Change you can implement today in your team
 4. Questions to ask your team in groups or 1/1s
 5. Other resources and reference
+
+# Table of Contents
+[Motivation](motivation.md)

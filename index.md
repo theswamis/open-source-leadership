@@ -20,4 +20,5 @@ Each topic has the same sections.
 5. Other resources and reference
 
 # Table of Contents
-[Motivation](motivation.md)
+1. [Purpose](purpose.md)
+2. [Purpose](purpose.md)

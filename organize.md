@@ -2,6 +2,11 @@
 layout: default
 title: Organize
 ---
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 # Organize
 Removing obstacles from in front of your team enables them do their best work.

@@ -10,6 +10,6 @@ nav_exclude: true
 
 # Take Action
 
-# Questions to Ask
+# Questions
 
 # Reference

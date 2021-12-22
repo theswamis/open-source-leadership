@@ -4,6 +4,12 @@ title: Purpose
 nav_order: 1
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 # Purpose
 Purpose gives meaning and direction to your activity.  Activity without direction becomes tiresome and people will eventually drift away.
 

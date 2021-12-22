@@ -4,6 +4,7 @@ title: Home
 nav_order: 1
 description: "Open Source Leadership helps new leaders thrive."
 permalink: /
+has_children: true
 ---
 
 # The Calm Leader

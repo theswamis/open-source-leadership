@@ -1,3 +1,9 @@
+---
+layout: default
+title: Purpose
+nav_order: 1
+---
+
 # Purpose
 Purpose gives meaning and direction to your activity.  Activity without direction becomes tiresome and people will eventually drift away.
 

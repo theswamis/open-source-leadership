@@ -10,8 +10,8 @@ permalink: /
 Open Source Leadership is a community of leaders.  We share our ideas and experiences to help each other grow into great leaders.
 
 # Contribute
-We welcome your contributions!  Just send a Pull Request and I would be happy to add your thoughts to this project.
-This is open source leadership.
+We welcome your contributions!  This is open source leadership.
+Fork the [repo](https://github.com/theswamis/open-source-leadership) and send a pull request.
 
 # Who is this for?
 If you have followers, you are a leader.  This includes parents, teachers, community organizers, volunteer coordinators, and the list goes on.  You are almost certainly a leader in some sphere of life.

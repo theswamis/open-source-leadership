@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Purpose
-nav_order: 2
+title: Motivate
+nav_order: 3
 ---
 
 ## Table of contents

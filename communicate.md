@@ -2,20 +2,19 @@
 Your followers need you to clearly communicate in a way that they can understand.
 
 # Why Communicate?
-No one can read your mind!  
-It is impossible to overcommunicate.
+No one can read your mind!
+
+Your followers want and need to hear your ideas.  Your message about purpose, vision, and action is of no use if not communnicated with your followers.
+Don't be shy, they want to hear from you.
+
+_It is impossible to overcommunicate._
 
 # Take Action
-Write down the purpose of your team or group in one sentence.  Share it with your team and get their feedback.
+1. Send one communication to your team every week (at least).
+2. Speak up in meetings.  Make a goal to ask 1 question or make one statement in every meeting you attend.  This shows that you are engaged and contributing.  Your perspective is important.
 
-Most often, strong purpose comes from helping others.  Showing how your work impacts the lives of others and the world around you is most often the purpose of your team or organization.  Think about who benefits from your work and tie your purpose to helping them.
-
-# Questions to ask your team in groups or 1/1s
-- What could we do to make this a more inspiring place to work?
-- Who are we helping with our work?  What else can we do to help them?
-- Is our purpose inspiring and motivating?  Why or why not?
-- Does the work you do on a daily basis align with our purpose?
-- What are the obstacles to reaching your purpose?
+# Questions to Ask
+- How can I make my communication more understandable?
+- What topics are unclear?
 
 # Other resources and reference
-- [Mission Statement Examples](https://alessiobresciani.com/foresight-strategy/51-mission-statement-examples-from-the-worlds-best-companies/)

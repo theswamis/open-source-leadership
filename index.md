@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Open Source Leadership helps new leaders thrive."
+permalink: /
+---
+
 # The Calm Leader
 Yes, you can be a leader and not be crazy.  You can be intense, but still calm.
 

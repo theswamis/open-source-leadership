@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Template
-nav_exclude: true
+title: Organize
 ---
 
 # Organize

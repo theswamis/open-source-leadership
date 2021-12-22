@@ -11,7 +11,8 @@ nav_order: 3
 {:toc}
 
 # Motivate
-> the condition of being eager to act or work [Merriam Webster](https://www.merriam-webster.com/dictionary/motivation)
+> the condition of being eager to act or work 
+[Merriam Webster](https://www.merriam-webster.com/dictionary/motivation)
 
 # Why Motivate?
 As a leader, one of our key roles is to motivate people to accomplish a goal or task.

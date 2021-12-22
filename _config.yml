@@ -1,2 +1,6 @@
 # remote-theme: jekyll-theme-architect
 remote-theme: pmarsceill/just-the-docs
+
+title: Open Source Leadership
+description: A collaborative leadership doc
+baseurl: "/the-calm-leader" # the subpath of your site, e.g. /blog

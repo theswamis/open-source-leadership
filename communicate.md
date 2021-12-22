@@ -1,3 +1,9 @@
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 # Communicate
 Your followers need you to clearly communicate in a way that they can understand.
 

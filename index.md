@@ -1,8 +1,9 @@
 # The Calm Leader
-This is open source leadership.  I am sharing my experience and thoughts as a people leader for almost 10 years in the technology industry.  
-
-# Calm?
 Yes, you can be a leader and not be crazy.  You can be intense, but still calm.
+
+# Contribute
+I would love to have your contributions.  Just send a Pull Request and I would be happy to add your thoughts to this project.
+This is open source leadership.
 
 # Who is this for?
 If you have followers, you are a leader.  This includes parents, teachers, community organizers, volunteer coordinators, and the list goes on.  You are almost certainly a leader in some sphere of life.

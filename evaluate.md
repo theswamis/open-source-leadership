@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 7. Prioritize (Draft)
+title: Evaluate (Draft)
+nav_order: 65
 ---
 
 # Title

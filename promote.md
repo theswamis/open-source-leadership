@@ -1,5 +1,5 @@
 ---
 layout: default
-nav_exclude: true
-title: Promote
+nav_order: 8
+title: 8. Promote
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Decide
-nav_exclude: true
+title: 7. Decide (Draft)
+nav_order: 7
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 5. Recruit (Draft)
-nav_exclude: false
+nav_order: 5
 ---
 
 # Title

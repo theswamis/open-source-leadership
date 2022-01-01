@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Celebrate (Draft)
+title: Celebrate
 nav_order: 90
 ---
 

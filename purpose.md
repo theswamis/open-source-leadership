@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "1. Purpose"
-nav_order: 2
+nav_order: 10
 ---
 
 ## Table of contents

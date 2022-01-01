@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "1. Purpose"
+title: Purpose
 nav_order: 10
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 2. Communicate
-nav_order: 3
+title: Communicate
+nav_order: 20
 ---
 
 ## Table of contents

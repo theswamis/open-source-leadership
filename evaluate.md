@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Evaluate (Draft)
+title: Evaluate
 nav_order: 65
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Decide (Draft)
+title: Decide
 nav_order: 70
 ---
 

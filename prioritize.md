@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prioritize (Draft)
+title: Prioritize
 nav_order: 50
 ---
 

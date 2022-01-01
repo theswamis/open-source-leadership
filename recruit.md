@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Recruit (Draft)
+title: Recruit
 nav_order: 30
 ---
 

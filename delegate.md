@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Delegate
-nav_exclude: true
+title: 6. Delegate
+nav_order: 6
 ---

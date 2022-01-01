@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 9. Celebrate (Draft)
-nav_order: 9
+title: Celebrate (Draft)
+nav_order: 90
 ---
 
 # Title

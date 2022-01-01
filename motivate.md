@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 3. Motivate
-nav_order: 3
+title: Motivate
+nav_order: 40
 ---
 
 ## Table of contents

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: 6. Delegate
-nav_order: 6
+title: Delegate
+nav_order: 61
 ---

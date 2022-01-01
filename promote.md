@@ -1,5 +1,5 @@
 ---
 layout: default
-nav_order: 8
-title: 8. Promote
+nav_order: 80
+title: Promote
 ---

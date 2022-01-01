@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 5. Recruit (Draft)
-nav_order: 5
+title: Recruit (Draft)
+nav_order: 30
 ---
 
 # Title

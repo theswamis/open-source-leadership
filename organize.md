@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 5. Organize
-
+title: Organize
+nav_order: 60
 ---
 ## Table of contents
 {: .no_toc .text-delta }

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Motivate
+title: 3. Motivate
 nav_order: 3
 ---
 

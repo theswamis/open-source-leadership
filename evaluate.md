@@ -3,6 +3,11 @@ layout: default
 title: Evaluate
 nav_order: 65
 ---
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 # Evaluate
 The goal of this entire process of performance evaluation is to improve the way a team or an organization functions, to achieve higher levels of customer satisfaction.

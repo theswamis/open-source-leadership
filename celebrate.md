@@ -11,8 +11,8 @@ nav_order: 90
 # Why Celebrate?
 
 # Take Action
-1. Pick one thing to celebrate.  Write down the reasons why it is important to celebrate
-2. Plan a celebration.
+1. Pick one thing to celebrate.  Write down the reasons why it is important to celebrate.
+2. Plan and give a celebration.
 3. Write your thoughts on how the celebration was received.  Capture ideas on what went well and what can be improved.
 
 # Questions

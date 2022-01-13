@@ -11,7 +11,7 @@ nav_order: 30
 {:toc}
 
 # Recruit
-> Identify and motivate people who share your purpose to join your team.
+Identify and motivate people who share your purpose to join your team.
 
 # Why Recruit?
 > By making recruiting an ongoing process and continually connecting with people you think could be a good fit for your organization, when an open job does come across your desk, you’ll already have a roster of qualified candidates in your contact list. That way you won’t have to scramble and start from scratch to find the right person for the position.

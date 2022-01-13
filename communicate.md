@@ -14,7 +14,8 @@ nav_order: 20
 Your followers need you to clearly communicate in a way that they can understand.
 
 # Why Communicate?
-No one can read your mind!
+*No one can read your mind!*
+If you don't speak or write, it is impossible to know what you are thinking.
 
 Your followers want and need to hear your ideas.  Your message about purpose, vision, and action is of no use if not communnicated with your followers.
 Don't be shy, they want to hear from you.

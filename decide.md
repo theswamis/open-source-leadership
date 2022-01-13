@@ -29,7 +29,7 @@ These are some factors to consider when thinking about making decisions:
 
 # Questions
 1. How might we improve our decision making?
-2. How can we make our work more efficient?
-3. Are there gaps in our role assignments?  Is anyone overloaded?  Is everyone doing what they want to do?
+2. Should we make decisions faster? Slower?
+3. Are our decisions being made by the right people? 
 
 # Reference
